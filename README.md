@@ -24,8 +24,8 @@ File has been created and written with student details.
 
 ## Program:
 ~~~
-Developed by : Syed Muhammed Zahi
-Register no. : 212221230114
+Developed by : S.ABHISHEK
+Register no. : 212221230002
 
 using System;
 using System.Collections.Generic;
@@ -85,6 +85,4 @@ public class program
 
 
 ## Result:
- C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
-
-
+C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
