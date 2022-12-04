@@ -85,6 +85,6 @@ public class program
 
 
 ## Result:
-C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
+ C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully.
 
 
